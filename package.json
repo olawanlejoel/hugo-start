@@ -6,8 +6,7 @@
     "scripts": {
         "build": "hugo",
         "create": "hugo new",
-        "serve": "hugo server",
-        "start": "serve ./public"
+        "serve": "hugo server"
     },
     "author": "",
     "license": "ISC",
